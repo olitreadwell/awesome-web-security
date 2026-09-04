@@ -1,6 +1,6 @@
 {
   "schema_version": "1",
-  "generated_at": "2026-08-21T05:53:43Z",
+  "generated_at": "2026-09-04T04:52:50Z",
   "categories": [
     {
       "key": "digests",
@@ -1202,7 +1202,7 @@
     },
     {
       "id": "browser-backend-attacking-javascript-engines-a-case-study-of-javas",
-      "url": "https://www.phrack.org/papers/attacking_javascript_engines.html",
+      "url": "https://www.phrack.org/issues/70/attacking-javascript-engines-a-case-study-of-javascriptcore-and-cve-2016-4622.html",
       "title": "Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622",
       "author": {
         "name": "phrack@saelo.net",
@@ -1425,9 +1425,9 @@
       ],
       "difficulty": "intermediate",
       "date_added": "2020-05-10",
-      "archive_url": null,
+      "archive_url": "https://web.archive.org/web/20210310193058/https://theori.io/research/escaping-chrome-sandbox/",
       "last_checked": null,
-      "status": "active"
+      "status": "archived-only"
     },
     {
       "id": "browser-backend-how-i-got-my-first-big-bounty-payout-with-tesla",
@@ -1527,9 +1527,9 @@
       ],
       "difficulty": "intermediate",
       "date_added": "2018-02-23",
-      "archive_url": null,
+      "archive_url": "https://web.archive.org/web/20251216045321/http://www.brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast/",
       "last_checked": null,
-      "status": "active"
+      "status": "archived-only"
     },
     {
       "id": "browser-frontend-safari-client-side",
@@ -4268,9 +4268,9 @@
       ],
       "difficulty": "intermediate",
       "date_added": "2018-04-23",
-      "archive_url": null,
+      "archive_url": "https://web.archive.org/web/20201109035030/https://sigpwn.io/blog/2018/4/14/domato-fuzzers-generation-engine-internals",
       "last_checked": null,
-      "status": "active"
+      "status": "archived-only"
     },
     {
       "id": "miscellaneous-css-is-so-overpowered-it-can-deanonymize-facebook",
@@ -10613,9 +10613,9 @@
       ],
       "difficulty": "intermediate",
       "date_added": "2019-11-05",
-      "archive_url": null,
+      "archive_url": "https://web.archive.org/web/20250119133336/https://www.hahwul.com/2019/11/upgrade-self-xss-to-exploitable-xss.html",
       "last_checked": null,
-      "status": "active"
+      "status": "archived-only"
     },
     {
       "id": "tricks-xss-exploiting-xss-with-20-characters-limitation",

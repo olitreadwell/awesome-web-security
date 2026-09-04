@@ -61,10 +61,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20251216045321/http://www.brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast/"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [Manuel](https://twitter.com/magicmac2000)."
   - id: browser-frontend-safari-client-side
     url: "https://bo0om.ru/safari-client-side"

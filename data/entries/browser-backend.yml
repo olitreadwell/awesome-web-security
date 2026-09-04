@@ -3,7 +3,7 @@
 
 entries:
   - id: browser-backend-attacking-javascript-engines-a-case-study-of-javas
-    url: "https://www.phrack.org/papers/attacking_javascript_engines.html"
+    url: "https://www.phrack.org/issues/70/attacking-javascript-engines-a-case-study-of-javascriptcore-and-cve-2016-4622.html"
     title: Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622
     author:
       name: "phrack@saelo.net"
@@ -173,10 +173,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2020-05-10"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20210310193058/https://theori.io/research/escaping-chrome-sandbox/"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [@tjbecker_](https://twitter.com/tjbecker_)."
   - id: browser-backend-how-i-got-my-first-big-bounty-payout-with-tesla
     url: "https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d"
