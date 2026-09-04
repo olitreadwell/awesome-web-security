@@ -7,7 +7,7 @@
 - CLA/DCO: none
 - AI-assisted PR policy: banned? no — no AI/trivial bans found (vetted 2026-08-24); auto-review bot grades PRs (RUBRIC.md)
 - signed commits required: no
-- PR template: none (policy passport pr_template_present=false)
+- PR template: present (.github/PULL_REQUEST_TEMPLATE.md, resource-add shape)
 - external tracker: GitHub only
 - Data model: YAML-first. README.md/README-zh.md/README-jp.md are GENERATED from data/categories.yml + data/entries/*.yml via `python3 scripts/generate.py`. Do NOT hand-edit READMEs. Validate: `python3 scripts/verify_schema.py`. Dead-link triage: `scripts/ci/triage_dead_links.py`.
 
