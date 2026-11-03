@@ -3,7 +3,7 @@
 
 entries:
   - id: browser-backend-attacking-javascript-engines-a-case-study-of-javas
-    url: "https://www.phrack.org/papers/attacking_javascript_engines.html"
+    url: "https://www.phrack.org/issues/70/attacking-javascript-engines-a-case-study-of-javascriptcore-and-cve-2016-4622.html"
     title: Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622
     author:
       name: "phrack@saelo.net"
@@ -173,6 +173,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2020-05-10"
+    archive_url: "https://web.archive.org/web/20210310193058/https://theori.io/research/escaping-chrome-sandbox/"
     archive_url: "http://web.archive.org/web/20210310193058/https://theori.io/research/escaping-chrome-sandbox/"
     last_checked: null
     fingerprint: null

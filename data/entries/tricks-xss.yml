@@ -285,6 +285,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-11-05"
+    archive_url: "https://web.archive.org/web/20250119133336/https://www.hahwul.com/2019/11/upgrade-self-xss-to-exploitable-xss.html"
     archive_url: "http://web.archive.org/web/20250119133336/https://www.hahwul.com/2019/11/upgrade-self-xss-to-exploitable-xss.html"
     last_checked: null
     fingerprint: null
