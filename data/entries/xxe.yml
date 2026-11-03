@@ -13,7 +13,7 @@ entries:
     languages: [zh]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20180107150934/https://www.freebuf.com/video/49961.html"
     last_checked: null
     fingerprint: null
     status: active
@@ -29,7 +29,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20230523091350/https://phonexicum.github.io/infosec/xxe.html"
     last_checked: null
     fingerprint: null
     status: active
@@ -48,7 +48,7 @@ entries:
     archive_url: null
     last_checked: null
     fingerprint: null
-    status: active
+    status: dead
     raw_rest: "Written by [@b1ngz](https://b1ngz.github.io/)."
   - id: xxe-payloadsallthethings-xxe-injection
     url: "https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection"
@@ -59,7 +59,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-11-05"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20240917155437/https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection"
     last_checked: null
     fingerprint: null
     status: active
@@ -75,10 +75,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-11-05"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20211117082811/https://www.vsecurity.com/download/publications/XMLDTDEntityAttacks.pdf"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [Timothy D. Morgan](https://twitter.com/ecbftw) and Omar Al Ibrahim."
   - id: xxe-xml-external-entity-xxe-injection
     url: "https://portswigger.net/web-security/xxe"
@@ -91,7 +91,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-11-05"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20220610211934/https://portswigger.net/web-security/xxe"
     last_checked: null
     fingerprint: null
     status: active
@@ -107,8 +107,8 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-11-30"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20251215/https://github.com/payloadbox/xxe-injection-payload-list"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [@payloadbox](https://github.com/payloadbox)"

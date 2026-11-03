@@ -13,13 +13,13 @@ entries:
     languages: [zh]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20240905193407/https://github.com/Xyntax/1000php"
     last_checked: null
     fingerprint: null
     status: active
     raw_rest: "1000个PHP代码审计案例(2016.7以前乌云公开漏洞) by [@Xyntax](https://github.com/Xyntax)."
   - id: miscellaneous-a-glimpse-into-githubs-bug-bounty-workflow
-    url: "https://githubengineering.com/githubs-bug-bounty-workflow/"
+    url: "https://github.blog/2017-02-22-githubs-bug-bounty-workflow/"
     title: "A glimpse into GitHub's Bug Bounty workflow"
     author:
       name: "@gregose"
@@ -29,7 +29,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20240421175502/https://github.blog/2017-02-22-githubs-bug-bounty-workflow/"
     last_checked: null
     fingerprint: null
     status: active
@@ -45,7 +45,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20170315010759/https://pwndizzle.blogspot.jp/2014/02/brute-forcing-your-facebook-email-and.html"
     last_checked: null
     fingerprint: null
     status: active
@@ -61,7 +61,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20230307010846/https://www.belfercenter.org/publication/cybersecurity-campaign-playbook"
     last_checked: null
     fingerprint: null
     status: active
@@ -77,7 +77,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20240917162846/https://github.com/x0rz/EQGRP"
     last_checked: null
     fingerprint: null
     status: active
@@ -93,7 +93,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20250119133336/https://sites.google.com/site/bughunteruniversity/behind-the-scenes/presentations/google-vrp-and-unicorns"
     last_checked: null
     fingerprint: null
     status: active
@@ -109,7 +109,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20241116211149/https://github.com/rmusser01/Infosec_Reference"
     last_checked: null
     fingerprint: null
     status: active
@@ -125,10 +125,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20191023230940/https://iotscanner.bullguard.com/"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Check if your internet-connected devices at home are public on Shodan by [BullGuard](https://www.bullguard.com/)."
   - id: miscellaneous-pentest-exploit-dev-cheatsheet-wallpaper
     url: "https://i.imgur.com/Mr9pvq9.jpg"
@@ -141,7 +141,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20170215131748/https://i.imgur.com/Mr9pvq9.jpg"
     last_checked: null
     fingerprint: null
     status: active
@@ -157,7 +157,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20241208155331/https://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/"
     last_checked: null
     fingerprint: null
     status: active
@@ -173,7 +173,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20241116020903/https://github.com/djadmin/awesome-bug-bounty"
     last_checked: null
     fingerprint: null
     status: active
@@ -189,7 +189,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20241127030425/https://github.com/ngalongc/bug-bounty-reference"
     last_checked: null
     fingerprint: null
     status: active
@@ -205,7 +205,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20240930090310/https://github.com/ChALkeR/notes"
     last_checked: null
     fingerprint: null
     status: active
@@ -221,7 +221,7 @@ entries:
     languages: [zh]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20251217222434/https://devco.re/blog/2014/06/19/client-ip-detection/"
     last_checked: null
     fingerprint: null
     status: active
@@ -240,7 +240,7 @@ entries:
     archive_url: null
     last_checked: null
     fingerprint: null
-    status: active
+    status: dead
     raw_rest: "Written by [鹰小编](http://www.mottoin.com/user/ying/)."
   - id: miscellaneous-7-5k-google-services-mix-up
     url: "https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up"
@@ -253,7 +253,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-03-12"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20180217003004/https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up"
     last_checked: null
     fingerprint: null
     status: active
@@ -269,7 +269,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-03-12"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20251220083605/https://docs.google.com/presentation/d/1VpRT8dFyTaFpQa9jhehtmGaC7TqQniMSYbUdlHN6VrY/edit?usp=sharing"
     last_checked: null
     fingerprint: null
     status: active
@@ -285,7 +285,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-03-19"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20230325044009/https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/"
     last_checked: null
     fingerprint: null
     status: active
@@ -301,7 +301,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-03-29"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20251116112058/https://voidsec.com/vpn-leak/"
     last_checked: null
     fingerprint: null
     status: active
@@ -317,7 +317,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-04-15"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20260801131944/https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66"
     last_checked: null
     fingerprint: null
     status: active
@@ -333,7 +333,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-04-15"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20200309070522/https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks"
     last_checked: null
     fingerprint: null
     status: active
@@ -350,6 +350,7 @@ entries:
     difficulty: intermediate
     date_added: "2018-04-23"
     archive_url: "https://web.archive.org/web/20201109035030/https://sigpwn.io/blog/2018/4/14/domato-fuzzers-generation-engine-internals"
+    archive_url: "http://web.archive.org/web/20201109035030/https://sigpwn.io/blog/2018/4/14/domato-fuzzers-generation-engine-internals"
     last_checked: null
     fingerprint: null
     status: archived-only
@@ -365,10 +366,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-06-02"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20260614004524/https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [Ruslan Habalov](https://www.evonide.com/)."
   - id: miscellaneous-introduction-to-web-application-security
     url: "https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018"
@@ -381,7 +382,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-10-13"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20250828071334/https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018"
     last_checked: null
     fingerprint: null
     status: active
@@ -397,7 +398,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-10-29"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20260801134722/https://www.secjuice.com/finding-real-ips-of-origin-servers-behind-cloudflare-or-tor/"
     last_checked: null
     fingerprint: null
     status: active
@@ -413,10 +414,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-12-17"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20200225074152/https://blog.avatao.com/How-I-could-steal-your-photos-from-Google/"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [@gergoturcsanyi](https://twitter.com/gergoturcsanyi)."
   - id: miscellaneous-an-example-why-nat-is-not-security
     url: "https://0day.work/an-example-why-nat-is-not-security/"
@@ -429,7 +430,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-05-26"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20260216021852/https://0day.work/an-example-why-nat-is-not-security/"
     last_checked: null
     fingerprint: null
     status: active
@@ -445,10 +446,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-08-24"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20240930090311/https://slashcrypto.org/data/itsecx2018.pdf"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [@slashcrypto](https://twitter.com/slashcrypto)."
   - id: miscellaneous-hacking-with-a-heads-up-display
     url: "https://segment.com/blog/hacking-with-a-heads-up-display/"
@@ -461,10 +462,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-08-24"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20250810124831/https://segment.com/blog/hacking-with-a-heads-up-display/"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [David Scrobonia](https://segment.com/blog/authors/david-scrobonia/)."
   - id: miscellaneous-web-application-penetration-testing-notes
     url: "https://techvomit.net/web-application-penetration-testing-notes/"
@@ -477,7 +478,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-08-24"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20220407160122/https://techvomit.net/web-application-penetration-testing-notes/"
     last_checked: null
     fingerprint: null
     status: active
@@ -493,7 +494,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-08-25"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20221005185814/https://pentester.land/list-of-bug-bounty-writeups.html"
     last_checked: null
     fingerprint: null
     status: active
@@ -525,7 +526,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2020-03-22"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20200918181340/https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob"
     last_checked: null
     fingerprint: null
     status: active
@@ -541,10 +542,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2020-05-09"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20200728082541/https://threatvector.cylance.com/en_us/home/implications-of-loading-net-assemblies.html"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [Brian Wallace](https://threatvector.cylance.com/en_us/contributors/brian-wallace.html)."
   - id: miscellaneous-wctf2019-gyotaku-the-flag
     url: "https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf"
@@ -557,13 +558,13 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2020-05-10"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20260511133828/https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf"
     last_checked: null
     fingerprint: null
     status: active
     raw_rest: "Written by [@t0nk42](https://twitter.com/t0nk42)."
   - id: miscellaneous-how-we-abused-slacks-turn-servers-to-gain-access-t
-    url: "https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/"
+    url: "https://www.enablesecurity.com/blog/slack-webrtc-turn-compromise-and-bug-bounty/"
     title: "How we abused Slack's TURN servers to gain access to internal services"
     author:
       name: "@sandrogauci"
@@ -573,13 +574,13 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2020-05-11"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20260905103447/https://www.enablesecurity.com/blog/slack-webrtc-turn-compromise-and-bug-bounty/"
     last_checked: null
     fingerprint: null
     status: active
     raw_rest: "Written by [@sandrogauci](https://twitter.com/sandrogauci)."
   - id: miscellaneous-dos-file-path-magic-tricks
-    url: "https://medium.com/walmartlabs/dos-file-path-magic-tricks-5eda7a7a85fa"
+    url: "https://medium.com/walmartglobaltech/dos-file-path-magic-tricks-5eda7a7a85fa"
     title: DOS File Path Magic Tricks
     author:
       name: "@clr2of8"
@@ -589,7 +590,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2020-06-19"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20260102081130/https://medium.com/walmartglobaltech/dos-file-path-magic-tricks-5eda7a7a85fa"
     last_checked: null
     fingerprint: null
     status: active
@@ -605,7 +606,7 @@ entries:
     languages: [en]
     difficulty: intermediate
     date_added: "2020-06-19"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20260905100816/https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d"
     last_checked: null
     fingerprint: null
     status: active
@@ -642,3 +643,19 @@ entries:
     fingerprint: null
     status: active
     raw_rest: "Comprehensive Hack The Box writeup collection covering 75+ web challenges including XSS, SQLi, SSTI, SSRF, and deserialization, by [@momenbasel](https://github.com/momenbasel)."
+  - id: miscellaneous-dns-and-mail-security-methodology
+    url: "https://admintoolkit.io/guides/dns-mail-security-methodology/"
+    title: "From DNS Evidence to a Finding: DNS and Mail Security Methodology"
+    author:
+      name: AdminToolkit
+      url: "https://admintoolkit.io/"
+    category: miscellaneous
+    type: article
+    languages: [en]
+    difficulty: intermediate
+    date_added: "2026-09-14"
+    archive_url: "https://web.archive.org/web/20260914124718/https://admintoolkit.io/guides/dns-mail-security-methodology/"
+    last_checked: null
+    fingerprint: null
+    status: active
+    raw_rest: "How DNSSEC, DANE, SPF/DKIM/DMARC and SMTP transport evidence becomes a finding, with the decision logic for each, the `dig` invocations to reproduce it independently, and the false positives to expect."

@@ -16,7 +16,7 @@ entries:
     archive_url: null
     last_checked: null
     fingerprint: null
-    status: active
+    status: dead
     raw_rest: "Written by [@riyazwalikar](https://blog.appsecco.com/@riyazwalikar)."
   - id: tricks-csrf-neat-tricks-to-bypass-csrf-protection
     url: "https://zhuanlan.zhihu.com/p/32716181"
@@ -45,7 +45,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20240930090310/https://github.com/dxa4481/cssInjection"
     last_checked: null
     fingerprint: null
     status: active
@@ -61,10 +61,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-06-25"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20190223231043/https://blog.securityevaluators.com/cracking-javas-rng-for-csrf-ea9cacd231d2"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [@rramgattie](https://blog.securityevaluators.com/@rramgattie)."
   - id: tricks-csrf-if-httponly-you-could-still-csrf-of-cors-you-can
     url: "https://medium.com/@_graphx/if-httponly-you-could-still-csrf-of-cors-you-can-5d7ee2c7443"
@@ -77,7 +77,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2020-05-10"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20230523091923/https://medium.com/@_graphx/if-httponly-you-could-still-csrf-of-cors-you-can-5d7ee2c7443"
     last_checked: null
     fingerprint: null
     status: active

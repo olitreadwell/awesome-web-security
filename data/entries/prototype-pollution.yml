@@ -13,7 +13,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-12-30"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20240915214648/https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf"
     last_checked: null
     fingerprint: null
     status: active
@@ -29,7 +29,7 @@ entries:
     languages: [zh]
     difficulty: intermediate
     date_added: "2019-12-30"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20260419052746/https://www.leavesongs.com/PENETRATION/javascript-prototype-pollution-attack.html"
     last_checked: null
     fingerprint: null
     status: active
@@ -45,10 +45,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2020-07-29"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20240928085700/https://blog.p6.is/Real-World-JS-1/"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [@po6ix](https://twitter.com/po6ix)."
   - id: prototype-pollution-exploiting-prototype-pollution-rce-in-kibana-cve-2
     url: "https://research.securitum.com/prototype-pollution-rce-kibana-cve-2019-7609/"
@@ -61,8 +61,8 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2020-08-09"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20191124063029/https://research.securitum.com/prototype-pollution-rce-kibana-cve-2019-7609/"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [@securitymb](https://twitter.com/securitymb)."

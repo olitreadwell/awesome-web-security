@@ -3,7 +3,7 @@
 
 entries:
   - id: jwt-hardcoded-secrets-unverified-tokens-and-other-comm
-    url: "https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/"
+    url: "https://semgrep.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/"
     title: "Hardcoded secrets, unverified tokens, and other common JWT mistakes"
     author:
       name: "@ermil0v"
@@ -13,8 +13,24 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2020-07-28"
-    archive_url: "https://web.archive.org/web/20260508020522/https://semgrep.dev/"
+    archive_url: "https://web.archive.org/web/20260905143011/https://semgrep.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/"
     last_checked: null
     fingerprint: null
     status: active
     raw_rest: "Written by [@ermil0v](https://twitter.com/ermil0v)."
+  - id: jwt-how-to-revoke-a-jwt-from-a-system-that-does-it
+    url: "https://easinvy.com/notes/revoke-a-jwt"
+    title: "How to revoke a JWT, from a system that does it"
+    author:
+      name: "Ridam Agrawal"
+      url: "https://ridamagrawal.com"
+    category: jwt
+    type: article
+    languages: [en]
+    difficulty: intermediate
+    date_added: "2026-10-02"
+    archive_url: "https://web.archive.org/web/20261102105058/https://easinvy.com/notes/revoke-a-jwt"
+    last_checked: null
+    fingerprint: null
+    status: active
+    raw_rest: "A per-user revocation cut-off from a production multi-tenant app: why it compares against `auth_time` rather than `iat`, the whole-seconds rounding bug it shipped with, and the routes that trusted the token. Written by [Ridam Agrawal](https://ridamagrawal.com)."

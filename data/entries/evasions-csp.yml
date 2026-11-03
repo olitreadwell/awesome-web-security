@@ -13,7 +13,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20170115091948/https://labs.detectify.com/2016/04/04/csp-bypassing-form-action-with-reflected-xss/"
     last_checked: null
     fingerprint: null
     status: active
@@ -29,7 +29,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20250324143901/https://www.paulosyibelo.com/2017/05/twitter-xss-csp-bypass.html"
     last_checked: null
     fingerprint: null
     status: active
@@ -45,7 +45,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-07-13"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20251212193246/https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa"
     last_checked: null
     fingerprint: null
     status: active
@@ -61,13 +61,13 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-07-19"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20190904194351/https://portswigger.net/blog/evading-csp-with-dom-based-dangling-markup"
     last_checked: null
     fingerprint: null
     status: active
     raw_rest: "Written by [portswigger](https://portswigger.net/)."
   - id: evasions-csp-githubs-csp-journey
-    url: "https://githubengineering.com/githubs-csp-journey/"
+    url: "https://github.blog/2016-04-12-githubs-csp-journey/"
     title: "GitHub's CSP journey"
     author:
       name: "@ptoomey3"
@@ -77,13 +77,13 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-08-01"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20240522041731/https://github.blog/2016-04-12-githubs-csp-journey/"
     last_checked: null
     fingerprint: null
     status: active
     raw_rest: "Written by [@ptoomey3](https://github.com/ptoomey3)."
   - id: evasions-csp-githubs-post-csp-journey
-    url: "https://githubengineering.com/githubs-post-csp-journey/"
+    url: "https://github.blog/2017-01-19-githubs-post-csp-journey/"
     title: "GitHub's post-CSP journey"
     author:
       name: "@ptoomey3"
@@ -93,7 +93,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-08-01"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20230526141732/https://github.blog/2017-01-19-githubs-post-csp-journey/"
     last_checked: null
     fingerprint: null
     status: active
@@ -112,7 +112,7 @@ entries:
     archive_url: null
     last_checked: null
     fingerprint: null
-    status: active
+    status: dead
     raw_rest: "Written by [HeartSky](http://heartsky.info/)."
   - id: evasions-csp-any-protection-against-dynamic-module-import
     url: "https://github.com/w3c/webappsec-csp/issues/243"
@@ -125,7 +125,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-05-26"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20250119133336/https://github.com/w3c/webappsec-csp/issues/243"
     last_checked: null
     fingerprint: null
     status: active

@@ -13,10 +13,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20260802114221/https://phrack.org/papers/attacking_javascript_engines.html"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [phrack@saelo.net](mailto:phrack@saelo.net)."
   - id: browser-backend-exploiting-a-v8-oob-write
     url: "https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/"
@@ -29,10 +29,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20170525002539/https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [@halbecaf](https://twitter.com/halbecaf)."
   - id: browser-backend-ssd-advisory-chrome-turbofan-remote-code-execution
     url: "https://blogs.securiteam.com/index.php/archives/3379"
@@ -45,7 +45,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-02-23"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20170921230142/https://blogs.securiteam.com/index.php/archives/3379"
     last_checked: null
     fingerprint: null
     status: active
@@ -61,10 +61,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-03-20"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20251005073254/https://labs.bluefrostsecurity.de/files/Look_Mom_I_Dont_Use_Shellcode-WP.pdf"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [@moritzj](https://twitter.com/moritzj)."
   - id: browser-backend-pushing-webkits-buttons-with-a-mobile-pwn2own-expl
     url: "https://www.zerodayinitiative.com/blog/2018/2/12/pushing-webkits-buttons-with-a-mobile-pwn2own-exploit"
@@ -77,7 +77,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-07-05"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20240930090314/https://www.zerodayinitiative.com/blog/2018/2/12/pushing-webkits-buttons-with-a-mobile-pwn2own-exploit"
     last_checked: null
     fingerprint: null
     status: active
@@ -93,7 +93,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-08-01"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20250114103534/https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/"
     last_checked: null
     fingerprint: null
     status: active
@@ -109,7 +109,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2018-11-05"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20240930090311/https://doar-e.github.io/blog/2018/07/14/cve-2017-2446-or-jscjsglobalobjectishavingabadtime/"
     last_checked: null
     fingerprint: null
     status: active
@@ -125,7 +125,7 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-05-26"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20230327124500/https://habr.com/en/company/drweb/blog/452076/"
     last_checked: null
     fingerprint: null
     status: active
@@ -141,10 +141,10 @@ entries:
     languages: [en, zh, jp]
     difficulty: intermediate
     date_added: "2019-11-22"
-    archive_url: null
+    archive_url: "http://web.archive.org/web/20180413184550/http://blogs.360.cn:80/360safe/2016/11/29/three-roads-lead-to-rome-2/"
     last_checked: null
     fingerprint: null
-    status: active
+    status: archived-only
     raw_rest: "Written by [@holynop](https://twitter.com/holynop)."
   - id: browser-backend-ctf-v8
     url: "https://www.freebuf.com/vuls/203721.html"
@@ -157,7 +157,7 @@ entries:
     languages: [zh]
     difficulty: intermediate
     date_added: "2020-05-09"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20220628122716/https://www.freebuf.com/vuls/203721.html"
     last_checked: null
     fingerprint: null
     status: active
@@ -174,6 +174,7 @@ entries:
     difficulty: intermediate
     date_added: "2020-05-10"
     archive_url: "https://web.archive.org/web/20210310193058/https://theori.io/research/escaping-chrome-sandbox/"
+    archive_url: "http://web.archive.org/web/20210310193058/https://theori.io/research/escaping-chrome-sandbox/"
     last_checked: null
     fingerprint: null
     status: archived-only
@@ -189,7 +190,7 @@ entries:
     languages: [zh, jp]
     difficulty: intermediate
     date_added: "2020-06-19"
-    archive_url: null
+    archive_url: "https://web.archive.org/web/20260905100816/https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d"
     last_checked: null
     fingerprint: null
     status: active
